@@ -20,18 +20,18 @@ Modelo físico completo referente ao projeto conceitual do ecommerce visto em au
 Para o modelo físico entregue no tópico anterior, entreguem o SQL com todo o DDL necessário para criar esse banco de dados no postgreSql. O SQL pode estar em um arquivo chamado `ecommerce-ddl.sql` no github.
 
 * DML - Data Manipulation Language
-Com o banco de dados e tabelas criadas agora é hora de popularmos nosso e-commerce com dados, crie o SQL com a inserção dos seguintes dados:
+Com o banco de dados e tabelas criadas agora é hora de popularmos nosso e-commerce com dados, crie o SQL com a inserção dos seguintes dados: <br>
 
-5 clientes
-5 produtos
-2 clientes devem ter pelo menos 3 produtos no carrinho
-6 pedidos com pelo menos 2 produtos cada um
-3 campanhas de cupons
-    2 pedidos que utilizaram cupons
-2 fornecedores
-    Associe os produtos com esses dois fornecedores
-2 estoques
-    Adicione os produtos cadastrados nos estoque
+5 clientes<br>
+5 produtos<br>
+2 clientes devem ter pelo menos 3 produtos no carrinho<br>
+6 pedidos com pelo menos 2 produtos cada um<br>
+3 campanhas de cupons<br>
+    2 pedidos que utilizaram cupons<br>
+2 fornecedores<br>
+    Associe os produtos com esses dois fornecedores<br>
+2 estoques<br>
+    Adicione os produtos cadastrados nos estoque<br>
 
 Entregar também a remoção de 1 cliente que não possua pedidos ou items no carrinho e a atualização da descrição e valor de um produto. 
 
