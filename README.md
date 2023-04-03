@@ -1,4 +1,4 @@
-##Projeto Módulo de BD - E-commerce (PostgreSQL)
+## Projeto Módulo de BD - E-commerce (PostgreSQL)
 
 O projeto tem como proposta desenvolver uma modelagem física de um ecommerce, bem como todos os comandos SQL de DDL e DML da modelagem produzida. Este é o desafio desenvolvido durante o módulo de Banco de Dados do curso da Ada no programa Americanas Polo Tech | Trilha de Back-End com Java.
 
